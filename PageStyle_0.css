@@ -7,6 +7,8 @@ h1 {
 	font-size: 60px;
 	font-family: 'Brush Script MT', cursive;
 	color: DarkGray;
+	-webkit-text-stroke-width: 3px;
+  	-webkit-text-stroke-color: black;
 	background-image: linear-gradient(45deg, #dc143c 16.67%, #000080 16.67%, #000080 33.33%, #fffafa 33.33%, #fffafa 50%, #dc143c 50%, #dc143c 66.67%, #000080 66.67%, #000080 83.33%, #fffafa 83.33%, #fffafa 100%);
 	background-size: 84.85px 84.85px;
 }
